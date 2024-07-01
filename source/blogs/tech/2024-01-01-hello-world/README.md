@@ -1,4 +1,4 @@
-# Hello, World
+# Python虚拟环境配置
 
 安装Python3.8：
 sudo add-apt-repository ppa:deadsnakes/ppa
@@ -24,6 +24,3 @@ pip3 install -r requirements.txt --no-cache-di
 
 启动服务：
 gunicorn -c gunicorn_conf.py api.wsgi
-
-
-Edit and commit to git to enable an automated deployment by GitHub workflow.
