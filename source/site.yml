@@ -17,14 +17,13 @@ site:
     - title: License
       uri: /pages/license/index.html
     - title: Discuss
-      uri: https://github.com/michaelliao/gitsite/discussions
+      uri: https://github.com/xchen19/gitsite/discussions
       external: true
   git:
-    base-url: https://github.com/michaelliao/gitsite/blob/main/source
+    base-url: https://github.com/xchen19/gitsite/blob/main/source
   contact:
-    name: Michael Liao
-    github: https://github.com/michaelliao/gitsite
-    twitter: https://twitter.com/liaoxuefeng
+    name: Xi
+    github: https://github.com/xchen19/gitsite
   books:
     index-marker: true
   search:
