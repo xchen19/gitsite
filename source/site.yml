@@ -1,7 +1,7 @@
 site:
-  title: GitSite
-  description: GitSite is a static web site generator for Git.
-  keywords: gitsite, git, static web site, html
+  title: Notes
+  description: Personal daily notes
+  keywords: notes
   theme: default
   language: en-US
   # set the /<rootPath> pathname under which your site is served
@@ -10,15 +10,15 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: User Guide
+    - title: 随笔
       uri: /books/gitsite-guide/index.html
-    - title: Blogs
-      uri: /blogs/tech/index.html
-    - title: License
-      uri: /pages/license/index.html
-    - title: Discuss
-      uri: https://github.com/xchen19/gitsite/discussions
-      external: true
+    # - title: Blogs
+    #   uri: /blogs/tech/index.html
+    # - title: License
+    #   uri: /pages/license/index.html
+    # - title: Discuss
+    #   uri: https://github.com/xchen19/gitsite/discussions
+      # external: true
   git:
     base-url: https://github.com/xchen19/gitsite/blob/main/source
   contact:
