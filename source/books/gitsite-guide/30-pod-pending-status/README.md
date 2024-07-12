@@ -1,4 +1,4 @@
-# 24-07-11 open lens pod pending status problem shooting 
+# 24-07-11 pod pending status
 
 检查Pod的状态和事件：
 kubectl describe pod <pod-name> -n <namespace>
